@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RegistroApp</string>
+    <string name="welcome">Comienza tu viaje</string>
+    <string name="rut">RUT</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="genero">Género</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="edad">Edad</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="mensaje_registro">El usuario %1$s %2$s de RUT %3$s se ha registrado correctamente.</string>
+</resources>
